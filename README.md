@@ -1,4 +1,4 @@
-# ![wave](https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif) Hi, I'm Josemartin Cabrera Vidal
+# <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> Hi, I'm Josemartin Cabrera Vidal
 
 ## 👨‍💻 About Me
 I am a **Systems Engineering student** in my final year, with a deep motivation to create innovative **SaaS solutions for the livestock and agricultural sectors**. I'm passionate about using technology to bring meaningful changes to these industries.
@@ -44,4 +44,5 @@ I am a **Systems Engineering student** in my final year, with a deep motivation 
 ## 📬 Reach Me
 - 📧 Email: quipusoftcax@gmail.com
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
 ---
