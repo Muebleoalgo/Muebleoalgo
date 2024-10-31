@@ -30,8 +30,11 @@ I am a **Systems Engineering student** in my final year, with a deep motivation 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ## 🌐 Check out my Social Media
-[![Instagram](https://img.shields.io/badge/Instagram-@josemartin_cv__-blueviolet)](https://www.instagram.com/josemartin_cv_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-josemartin--cabrera--vidal-22807420a-blue)](https://www.linkedin.com/in/josemartin-cabrera-vidal-22807420a)
+## Check out my Social Media
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/josemartin_cv_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josemartin-cabrera-vidal-22807420a)
+
 
 ## 📈 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Muebleoalgo&show_icons=true&theme=radical)
