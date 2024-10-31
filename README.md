@@ -1,4 +1,4 @@
-# ![wave](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif) Hi, I'm Josemartin Cabrera Vidal
+# ![wave](https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif) Hi, I'm Josemartin Cabrera Vidal
 
 ## 👨‍💻 About Me
 I am a **Systems Engineering student** in my final year, with a deep motivation to create innovative **SaaS solutions for the livestock and agricultural sectors**. I'm passionate about using technology to bring meaningful changes to these industries.
@@ -24,10 +24,12 @@ I am a **Systems Engineering student** in my final year, with a deep motivation 
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ## 🌐 Check out my Social Media
 ## Check out my Social Media
