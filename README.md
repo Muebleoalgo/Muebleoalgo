@@ -1,5 +1,5 @@
 <div align="center">
-# <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> Hi, I'm Josemartin Cabrera Vidal
+<h1><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> Hi, I'm Josemartin Cabrera Vidal</h1>
 </div>
 
 ## 👨‍💻 About Me
