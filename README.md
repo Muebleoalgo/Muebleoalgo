@@ -35,7 +35,7 @@ I am a **Systems Engineering student** in my final year, with a deep motivation 
 
 ## 🌐 Check out my Social Media
 
-[![Linkedin Badge](https://img.shields.io/badge/-josemartin-cabrera-vidal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/josemartin-cabrera-vidal-22807420a/)
+[![Linkedin Badge](https://img.shields.io/badge/-JosemartinCabreraVidal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josemartin-cabrera-vidal-22807420a/)](https://www.linkedin.com/in/josemartin-cabrera-vidal-22807420a/)
 [![Instagram Badge](https://img.shields.io/badge/-josemartin_cv_-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/josemartin_cv_/)](https://instagram.com/josemartin_cv_)
 [![Gmail Badge](https://img.shields.io/badge/-quipusoftcax@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:quipusoftcax@gmail.com)](mailto:quipusoftcax@gmail.com)
 
