@@ -43,7 +43,19 @@ I am a **Systems Engineering student** in my final year, with a deep motivation 
 
 
 ## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Muebleoalgo&show_icons=true&theme=radical)
-![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Muebleoalgo&theme=radical)
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Muebleoalgo&show_icons=true&theme=radical" alt="Josemartin Cabrera Vidal's GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muebleoalgo&theme=radical" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 ---
